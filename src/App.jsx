@@ -123,12 +123,12 @@ const DATA = {
     { category: "Building", item: "Networking Everyday", completed: true },
   ],
   growth: [
-    { area: "Physical", commitment: "Gym every morning before work. Non-negotiable. It's the foundation everything else is built on." },
     { area: "Financial", commitment: "Studying markets, reading every day. Building the knowledge base before I touch real money. Patience is the strategy." },
-    { area: "Creative", commitment: "Learning guitar badly and consistently. Writing blogs in my head — putting them on paper soon. The craft takes time." },
-    { area: "Adventurous", commitment: "Travel to places that surprise me. Light adventure, real memories. Heights scare me — I go anyway." },
     { area: "Intellectual", commitment: "Never the clueless person in the room. Reading about AI, markets, geopolitics, startups. Forming opinions worth sharing." },
+    { area: "Adventurous", commitment: "Travel to places that surprise me. Light adventure, real memories. Heights scare me — I go anyway." },
     { area: "Social", commitment: "Better conversations, deeper relationships. Listening more, speaking with intent. Becoming someone worth remembering." },
+    { area: "Physical", commitment: "Workouts are Non-negotiable. It's the foundation everything else is built on." },
+     { area: "Creative", commitment: "Learning things consistently. Writing blogs in my head — putting them on paper soon. The craft develops some crazy ideas." },
   ],
   achievements: [
     { label: "Merit Scholarship", detail: "₹1.5L · 3 consecutive years · 2022–2025", description: "Awarded for academic excellence across three consecutive years — not once, not twice. Consistency is a skill too." },
@@ -137,7 +137,7 @@ const DATA = {
     { label: "Joint Secretary, ECON Club", detail: "Technical Lead · Operations Head · 2+ years", description: "Led a 10-member tech team for 2+ years — built websites for high-visibility events like Wolf of Dalal Street and Strategem, each impacting 500+ participants. Simultaneously ran operations for a 3-day IPL-UEFA Auction, managing two parallel finance-themed events without dropping a ball. Took the stage 10+ times to run workshops on tech and financial literacy for 100+ students. This wasn't a title. It was real ownership." },
   ],
   techRadar: [
-    { topic: "AI Agents", opinion: "The most underestimated shift happening right now. Not chatbots — actual autonomous work replacing workflows." },
+    { topic: "AI Agents and Automations", opinion: "The most underestimated shift happening right now. Not chatbots — actual autonomous work replacing workflows." },
     { topic: "Open Source LLMs", opinion: "The gap with closed models is closing fast. Llama, Mistral — this changes who controls AI." },
     { topic: "RAG over Fine-tuning", opinion: "For most business problems, RAG wins. Fine-tuning is expensive, brittle, and slow to update." },
     { topic: "Indian Startup Ecosystem", opinion: "Finally building for India, not copying Silicon Valley. Most interesting it's ever been." },
