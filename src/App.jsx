@@ -16,13 +16,13 @@ const DATA = {
   tagline: "Growth begins where comfort ends.",
   availability: "Open to work that makes a dent.",
   about: [
-    "I'm a final-year ECE engineer who refused to stay in one lane. I've built serverless backends serving 10K+ users, automated business workflows at one of the world's top consulting firms, and I'm only getting started.",
-    "I'm on a journey — learning everything, building things that matter, and becoming someone people can count on. Not because I have it all figured out. Because I show up every day and do the work.",
+    "I'm a final-year Engineer. I've built serverless backends serving 10K+ users, automated business workflows at one of the world's top consulting firms, and I'm only getting started.",
+    "I'm on a journey — learning everything, building things that matter, and becoming someone people can count on. Not because I have it all figured out. Because I show up every day and figure out.",
   ],
   currentlyObsessing: [
-    "AI agents & LangChain", "Silicon Valley funding landscape", "Options trading basics",
-    "RAG architectures", "Indian startup ecosystem", "Databricks certification",
-    "Open source LLMs", "Investment Matrix",
+    "AI agents, Automations & LangChain", "Silicon Valley funding landscape", "Options trading basics",
+    "RAG architectures", "Indian startup ecosystem", "Databricks",
+    "Open source LLMs", "Investment Matrix", 
   ],
   experience: [
     {
